@@ -1,0 +1,9 @@
+{
+  "item.portal-caster.nether_gem": "Nether Gem",
+  "item.portal-caster.portal_caster_item": "Portal Caster",
+
+  "sounds.portal-caster.portal_caster_casts_portal": "Nether portal opens",
+  "sounds.portal-caster.portal_caster_fails": "Portal caster fails",
+
+  "itemGroup.portal_caster": "Portal Caster Mod"
+}

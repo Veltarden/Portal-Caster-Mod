@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:ender_pearl"
+    },
+    "B": {
+      "item": "minecraft:gold_ingot"
+    },
+    "C": {
+      "item": "portal-caster:nether_gem"
+    }
+  },
+  "pattern": [
+    " AB",
+    " B ",
+    "BC "
+  ],
+  "result": {
+    "item": "portal-caster:portal_caster_item"
+  }
+}

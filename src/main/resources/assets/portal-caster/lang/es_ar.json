@@ -1,0 +1,9 @@
+{
+  "item.portal-caster.nether_gem": "Gema del nether",
+  "item.portal-caster.portal_caster_item": "Invocador de portales",
+
+  "sounds.portal-caster.portal_caster_casts_portal": "Portal al nether se abre",
+  "sounds.portal-caster.portal_caster_fails": "Invoca portales no invocó un portal",
+
+  "itemGroup.portal_caster": "Portal Caster Mod"
+}

@@ -1,0 +1,18 @@
+{
+  "portal_caster_casts_portal": {
+    "subtitle": "sounds.portal-caster.portal_caster_casts_portal",
+    "sounds": [
+      {
+        "name": "portal-caster:portal_caster_casts_portal"
+      }
+    ]
+  },
+  "portal_caster_fails": {
+    "subtitle": "sounds.portal-caster.portal_caster_fails",
+    "sounds": [
+      {
+        "name": "portal-caster:portal_caster_fails"
+      }
+    ]
+  }
+}
